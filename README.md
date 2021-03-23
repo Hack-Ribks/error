@@ -1,2 +1,0 @@
-# snaphack
-error
